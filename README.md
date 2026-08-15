@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="850" alt="Harsh Joshi - Banner"/>
+  <img src="https://raw.githubusercontent.com/harshjsh01/harshjsh01/main/assets/header.svg" width="850" alt="Harsh Joshi - Banner"/>
 </p>
 
 <p align="center">
@@ -56,16 +56,16 @@ Core Philosophy: "Synthesizing deep-silicon hardware architectures with generati
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
     <tr align="center">
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=harshjsh01&show_icons=true&theme=tokyonight&bg_color=030712&title_color=00f5d4&text_color=e2e8f0&icon_color=00ff87&border_color=00f5d433&border_radius=10&hide_border=false&rank_icon=github" alt="Harsh's GitHub Stats" width="415"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=harshjsh01&show_icons=true&theme=tokyonight&bg_color=030712&title_color=00f5d4&text_color=e2e8f0&icon_color=00ff87&border_color=00f5d433&border_radius=10" alt="Harsh's GitHub Stats" width="415"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjsh01&layout=compact&theme=tokyonight&bg_color=030712&title_color=00f5d4&text_color=e2e8f0&border_color=00f5d433&border_radius=10&hide_border=false" alt="Top Languages" width="375"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjsh01&layout=compact&theme=tokyonight&bg_color=030712&title_color=00f5d4&text_color=e2e8f0&border_color=00f5d433&border_radius=10" alt="Top Languages" width="375"/>
       </td>
     </tr>
     <tr align="center">
       <td colspan="2">
         <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshjsh01&theme=tokyonight&background=030712&border=00f5d433&stroke=00f5d4&ring=00ff87&fire=00f5d4&currStreakNum=00ff87&sideNums=38bdf8&currStreakLabel=00f5d4&dates=64748b&border_radius=10" alt="GitHub Streak" width="800"/>
+        <img src="https://streak-stats.demolab.com/?user=harshjsh01&theme=tokyonight&background=030712&border=00f5d433&stroke=00f5d4&ring=00ff87&fire=00f5d4&currStreakNum=00ff87&sideNums=38bdf8&currStreakLabel=00f5d4&dates=64748b&border_radius=10" alt="GitHub Streak" width="800"/>
       </td>
     </tr>
   </table>
