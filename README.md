@@ -56,10 +56,10 @@ Core Philosophy: "Synthesizing deep-silicon hardware architectures with generati
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
     <tr align="center">
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=harshjsh01&show_icons=true&theme=tokyonight&bg_color=030712&title_color=00f5d4&text_color=e2e8f0&icon_color=00ff87&border_color=00f5d433&border_radius=10" alt="Harsh's GitHub Stats" width="415"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshjsh01&show_icons=true&theme=tokyonight&bg_color=030712&title_color=00f5d4&text_color=e2e8f0&icon_color=00ff87&border_color=00f5d433&border_radius=10" alt="Harsh's GitHub Stats" width="415"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjsh01&layout=compact&theme=tokyonight&bg_color=030712&title_color=00f5d4&text_color=e2e8f0&border_color=00f5d433&border_radius=10" alt="Top Languages" width="375"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshjsh01&layout=compact&theme=tokyonight&bg_color=030712&title_color=00f5d4&text_color=e2e8f0&border_color=00f5d433&border_radius=10" alt="Top Languages" width="375"/>
       </td>
     </tr>
     <tr align="center">
