@@ -15,17 +15,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshjsh01" target="_blank">
+  <a href="https://portfolio-harsh-joshi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00f5d4?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-joshi-zenfine/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/harshjsh01" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter/X"/>
-  </a>
-  <a href="mailto:harshjoshi.dev@gmail.com">
+  <a href="mailto:harshjsh02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/harshjsh01?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-00f5d4?style=flat-square&logo=github&logoColor=black" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/Repositories-00ff87?style=flat-square&logo=github&logoColor=black" alt="Repositories"/>
   </a>
 </p>
 
@@ -332,22 +332,23 @@ $ curl -s https://api.harshjoshi.dev/v1/ping
   "status": "ready_for_collaboration",
   "interests": ["Deep-Tech Hardware", "Agentic AI", "WebAR", "Simulation Systems"],
   "location": "Bikaner / Jaipur, Rajasthan, India",
-  "contact": "harshjoshi.dev@gmail.com"
+  "portfolio": "https://portfolio-harsh-joshi.vercel.app/",
+  "contact": "harshjsh02@gmail.com"
 }
 ```
 
 <br/>
 
-<a href="https://linkedin.com/in/harshjsh01" target="_blank">
+<a href="https://portfolio-harsh-joshi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Explore_Portfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=030712" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/harsh-joshi-zenfine/" target="_blank">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
 </a>
 &nbsp;
-<a href="mailto:harshjoshi.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Initiate_Direct_Transmission-00f5d4?style=for-the-badge&logo=gmail&logoColor=030712" alt="Email Direct"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/harshjsh01" target="_blank">
-  <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X Follow"/>
+<a href="mailto:harshjsh02@gmail.com">
+  <img src="https://img.shields.io/badge/Initiate_Direct_Transmission-00ff87?style=for-the-badge&logo=gmail&logoColor=030712" alt="Email Direct"/>
 </a>
 
 <br/><br/>
