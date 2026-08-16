@@ -65,7 +65,7 @@ Core Philosophy: "Synthesizing deep-silicon hardware architectures with generati
     <tr align="center">
       <td colspan="2">
         <br/>
-        <img src="https://streak-stats.demolab.com/?user=harshjsh01&theme=tokyonight&background=030712&border=00f5d433&stroke=00f5d4&ring=00ff87&fire=00f5d4&currStreakNum=00ff87&sideNums=38bdf8&currStreakLabel=00f5d4&dates=64748b&border_radius=10" alt="GitHub Streak" width="800"/>
+        <img src="https://streak-stats.demolab.com/?user=harshjsh01&theme=tokyonight&background=030712&border=00f5d433&stroke=00f5d4&ring=00ff87&fire=00f5d4&currStreakNum=00ff87&sideNums=38bdf8&currStreakLabel=00f5d4&dates=64748b&border_radius=10&timezone=Asia%2FKolkata" alt="GitHub Streak" width="800"/>
       </td>
     </tr>
   </table>
